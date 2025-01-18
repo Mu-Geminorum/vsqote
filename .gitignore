@@ -41,5 +41,5 @@ build/debug/imageformats/qtgad.dll
 build/debug/imageformats/qtiffd.dll
 build/debug/imageformats/qwbmpd.dll
 build/debug/imageformats/qwebpd.dll
-build/debug/platforms/qwindowsd.dll
+build/*
 rename.sh
